@@ -1,4 +1,4 @@
-## Oi eu sou Lucinaldo Da Costa, Desarrolhador Web Front-end!
+## Oi eu sou Lucinaldo Da Costa, Desarrolhador Web Front-end!😁
 <div align="center">
   <a href="https://github.com/lucinaldocosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucinaldocosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,6 +22,8 @@
   
 <div>
   <a href="https://www.linkedin.com/in/lucinaldo-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lucinaldocosta/lucinaldocosta/blob/output/github-contribution-grid-snake.svg)
+
+  
+ ##Credito e snake de rafaballerini.
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>

@@ -1,8 +1,8 @@
 ## Oi eu sou Lucinaldo Da Costa, Desarrolhador Web Front-end!😁
 <div align="center">
   <a href="https://github.com/lucinaldocosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucinaldocosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucinaldocosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=lucinaldocosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucinaldocosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="lucinaldocosta-React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

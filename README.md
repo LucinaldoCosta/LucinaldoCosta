@@ -24,6 +24,6 @@
 
 ##  
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucinaldocosta/lucinaldocosta/blob/output/github-contribution-grid-snake.svg)
   ##Credito do snake a (rafaballerini).
 </div>

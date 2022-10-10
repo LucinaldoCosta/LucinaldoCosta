@@ -20,10 +20,11 @@
   ##
   
 <div>
-  <a href="https://www.linkedin.com/in/lucinaldo-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucinaldo-costa" target="_blank"><img align="center" alt="lucinaldocosta-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.youtube.com/channel/UCkryn9jdUSAp3x9UI1RT_0A" target="_blank"><img align="center" alt="lucinaldocosta-Youtube" height="45" width="70" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png"></a>  
+  
 
 ##  
-
+  
   ![Snake animation](https://github.com/lucinaldocosta/lucinaldocosta/blob/output/github-contribution-grid-snake.svg)
-  ##Credito do snake a (rafaballerini).
 </div>

@@ -40,5 +40,4 @@
 <br>
 </div>
   
-  ![Snake animation](https://github.com/lucinaldocosta/lucinaldocosta/blob/output/github-contribution-grid-snake.svg)
 </div>
